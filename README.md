@@ -31,10 +31,12 @@ I'm an ex-lab analyst building a career in data analytics. I enjoy cleaning data
 
 ---
 ### 🗂️ Portfolio Spotlight 
-🛍️ **[Retail Sales Dataset Analysis](https://github.com/liannebaff/Retail-Sales-Dataset-Project)** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Analysed a synthetic retail sales dataset using Microsoft Excel:  
-  - Built pivot tables and charts to summarise sales by product category and customer demographics.
-   - Applied conditional formatting and VLOOKUP.
+🛍️ **[Retail Sales Dataset Analysis](https://github.com/liannebaff/Retail-Sales-Dataset-Project)**  
+
+
+Analysed a synthetic retail sales dataset using Microsoft Excel:  
+- Built pivot tables and charts to summarise sales by product category and customer demographics.
+- Applied conditional formatting and VLOOKUP.
   
 <!--
 🛍️ **[Retail Sales Dataset Analysis](https://github.com/liannebaff/Retail-Sales-Dataset-Project)** <br>
