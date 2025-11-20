@@ -54,7 +54,7 @@ I'm an ex-lab analyst building a career in data analytics. I enjoy cleaning data
 
 --- 
 ### ✨ Other Places You Can Find Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liannebaffour/) [![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)]([YOUR_TABLEAU_PUBLIC_LINK](https://public.tableau.com/app/profile/liannebaff/vizzes))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liannebaffour/) [![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/liannebaff/vizzes)
 
 <!-- [![Google Site](https://img.shields.io/badge/Google%20Site-4285F4?logo=google&logoColor=white)](YOUR_GOOGLE_SITE_LINK)
 -->
