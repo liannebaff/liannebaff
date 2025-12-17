@@ -1,6 +1,6 @@
 ## Hello! I'm Lianne 👋
 
-I'm an ex-lab analyst building a career in data analytics. I enjoy cleaning data, creating dashboards and turning complex information into something clear and useful.
+I'm a Pharmacology graduate transitioning into data analytics from a laboratory-based background. I enjoy cleaning data, creating dashboards and turning complex information into something clear and useful.
 
 **I'm happiest when I'm:**
 - producing meaningful work
@@ -14,7 +14,6 @@ I'm an ex-lab analyst building a career in data analytics. I enjoy cleaning data
 ---
 
 ### 💼 Currently Working On
-📊 Completing a Data Technician Skills Bootcamp with Just IT.  <br>
 🧠 Levelling up my Python, SQL and dashboard skills. <br>
 🥇 Completing the Google Data Analytics Certificate. <br>
 🌱 Growing my portfolio one project at a time.
@@ -29,6 +28,10 @@ I'm an ex-lab analyst building a career in data analytics. I enjoy cleaning data
 - Azure (data services, cloud analytics)
 - Data cleaning, validation and reporting
 
+### 🥇 Certifications
+- Digital Skills Bootcamp in Data Technician - Just IT Training (completed: November 2025)
+- Drug Hunting: The Science of Making New Medicines - Novartis via Coursera (completed: November 2024)
+  
 ---
 ### 🗂️ Portfolio Spotlight 
 🛍️ **[Retail Sales Dataset Analysis](https://github.com/liannebaff/Retail-Sales-Dataset-Project)**  
