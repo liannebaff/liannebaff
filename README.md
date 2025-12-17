@@ -12,13 +12,11 @@ I'm a Pharmacology graduate transitioning into data analytics from a laboratory-
 *(Basically, if it involves organising, structuring or analysing ... I'm in!)*
 
 ---
-
 ### 💼 Currently Working On
 🧠 Levelling up my Python, SQL and dashboard skills. <br>
 🥇 Completing the Google Data Analytics Certificate. <br>
 🌱 Growing my portfolio one project at a time.
 
----
 ### 🧰 Skills and Tools
 - Excel (advanced formulas, pivot tables, XLOOKUP/VLOOKUP)
 - Power BI (Power Query, dashboards, visualisations)
