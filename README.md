@@ -39,13 +39,14 @@ Analysed a synthetic retail sales dataset using Microsoft Excel:
 - Built pivot tables and charts to summarise sales by product category and customer demographics.
 - Applied conditional formatting and VLOOKUP.
   
-<!--
-🛍️ **[Retail Sales Dataset Analysis](https://github.com/liannebaff/Retail-Sales-Dataset-Project)** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Analysed a synthetic retail sales dataset using Microsoft Excel.
+🌍 **[World Database Analysis](https://github.com/liannebaff/World-Database-Project)** 
+<br>.
+- Explored global data using SQL, including filtering, joins, aggregations, and sorting.
+- Developed queries using SELECT, WHERE, JOIN, GROUP BY, ORDER BY, LIMIT, and aggregate functions.
 
-🛍️ **[Retail Sales Dataset Analysis](https://github.com/liannebaff/Retail-Sales-Dataset-Project)** <br>
+
+💰 **[GDP per Capita Project](https://github.com/liannebaff/gdp-per-capita-project)** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Analysed a synthetic retail sales dataset using Microsoft Excel.
--->
 
 ---
 ### 🍭Fun Facts
