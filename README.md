@@ -39,7 +39,7 @@ I'm a Pharmacology graduate transitioning into data analytics from a laboratory-
   
 🌍 **[World Database Analysis](https://github.com/liannebaff/World-Database-Project)** 
 - Explored global data using MySQL, including filtering, joins, aggregations, and sorting.
-- Developed queries using SELECT, WHERE, JOIN, GROUP BY, ORDER BY, LIMIT, and aggregate functions.
+- Developed queries using SQL operations such as `SELECT`, `WHERE`, `JOIN`, `GROUP BY`, `ORDER BY`, `LIMIT`, and aggregate functions.
 
 💰 **[GDP per Capita Project](https://github.com/liannebaff/gdp-per-capita-project)** 
 - Performed exploratory data analysis on global GDP per capita estimates from IMF, World Bank, and UN using Python.
