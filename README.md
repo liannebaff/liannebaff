@@ -32,21 +32,19 @@ I'm a Pharmacology graduate transitioning into data analytics from a laboratory-
   
 ---
 ### 🗂️ Portfolio Spotlight 
-🛍️ **[Retail Sales Dataset Analysis](https://github.com/liannebaff/Retail-Sales-Dataset-Project)**  
-
-
-Analysed a synthetic retail sales dataset using Microsoft Excel:  
+🛍️ **[Retail Sales Dataset Analysis](https://github.com/liannebaff/Retail-Sales-Dataset-Project)**    
+- Analysed a synthetic retail sales dataset using Microsoft Excel:  
 - Built pivot tables and charts to summarise sales by product category and customer demographics.
 - Applied conditional formatting and VLOOKUP.
   
 🌍 **[World Database Analysis](https://github.com/liannebaff/World-Database-Project)** 
-<br>.
-- Explored global data using SQL, including filtering, joins, aggregations, and sorting.
+- Explored global data using MySQL, including filtering, joins, aggregations, and sorting.
 - Developed queries using SELECT, WHERE, JOIN, GROUP BY, ORDER BY, LIMIT, and aggregate functions.
 
-
-💰 **[GDP per Capita Project](https://github.com/liannebaff/gdp-per-capita-project)** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Analysed a synthetic retail sales dataset using Microsoft Excel.
+💰 **[GDP per Capita Project](https://github.com/liannebaff/gdp-per-capita-project)** 
+- Performed exploratory data analysis on global GDP per capita estimates from IMF, World Bank, and UN using Python.
+- Handled missing values, outliers, and calculated summary statistics.
+- Visualised distributions, correlations, and regional comparisons using histograms, scatter plots, bar charts, and heatmaps.
 
 ---
 ### 🍭Fun Facts
