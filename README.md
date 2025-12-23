@@ -35,7 +35,7 @@ I'm a Pharmacology graduate transitioning into data analytics from a laboratory-
 ---
 ### 🗂️ Portfolio Spotlight 
 🛍️ **[Retail Sales Dataset Analysis](https://github.com/liannebaff/Retail-Sales-Dataset-Project)**    
-- Analysed a synthetic retail sales dataset using Microsoft Excel:  
+- Analysed a synthetic retail sales dataset using Microsoft Excel.  
 - Built pivot tables and charts to summarise sales by product category and customer demographics.
 - Applied conditional formatting and VLOOKUP.
   
