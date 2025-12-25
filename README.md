@@ -29,7 +29,7 @@ I'm a Pharmacology graduate transitioning into data analytics from a laboratory-
 - Data cleaning, validation and reporting
 
 ### 🥇 Certifications
-- Digital Skills Bootcamp in Data Technician - Just IT Training (completed: November 2025)
+- Digital Skills Bootcamp in Data Technician - Just IT Training (completed: November 2025, [bootcamp portfolio](https://github.com/liannebaff/data-technician-skills-bootcamp))
 - Drug Hunting: The Science of Making New Medicines - Novartis via Coursera (completed: November 2024)
   
 ---
