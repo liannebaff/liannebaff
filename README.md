@@ -1,6 +1,6 @@
 ## Hello! I'm Lianne 👋
 
-I'm a Pharmacology graduate transitioning into data analytics from a laboratory-based background. I enjoy cleaning data, creating dashboards and turning complex information into something clear and useful.
+I'm a certified data technician transitioning into data analytics from a laboratory-based background. I enjoy cleaning data, creating dashboards and turning complex information into something clear and useful.
 
 **I'm happiest when I'm:**
 - producing meaningful work
