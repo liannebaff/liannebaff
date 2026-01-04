@@ -58,10 +58,6 @@ I'm a certified data technician transitioning into data analytics from a laborat
 
 --- 
 ### ✨ Other Places You Can Find Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liannebaffour/) [![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/liannebaff/vizzes)
-
-<!-- [![Google Site](https://img.shields.io/badge/Google%20Site-4285F4?logo=google&logoColor=white)](YOUR_GOOGLE_SITE_LINK) OR [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?logo=googlechrome&logoColor=white)](YOUR_GOOGLE_SITE_LINK)
-
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liannebaffour/) [![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/liannebaff/vizzes) [![Portfolio](https://img.shields.io/badge/Portfolio-darkgreen?)](https://sites.google.com/view/liannebaff/home)
 
 
