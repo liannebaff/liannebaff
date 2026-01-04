@@ -33,7 +33,7 @@ I'm a certified data technician transitioning into data analytics from a laborat
 - Drug Hunting: The Science of Making New Medicines - Novartis via Coursera (completed: November 2024)
   
 ---
-### 🗂️ Portfolio Spotlight 
+### 🗂️ Project Spotlight 
 🛍️ **[Retail Sales Dataset Analysis](https://github.com/liannebaff/Retail-Sales-Dataset-Project)**    
 - Analysed a synthetic retail sales dataset using Microsoft Excel.  
 - Built pivot tables and charts to summarise sales by product category and customer demographics.
